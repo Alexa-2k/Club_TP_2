@@ -1,0 +1,65 @@
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_Fase-05-main\Club_Fase-05-main\ClubFase5\bin\Debug\netcoreapp3.1\Club_TP_2.exe
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_Fase-05-main\Club_Fase-05-main\ClubFase5\bin\Debug\netcoreapp3.1\Club_TP_2.deps.json
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_Fase-05-main\Club_Fase-05-main\ClubFase5\bin\Debug\netcoreapp3.1\Club_TP_2.runtimeconfig.json
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_Fase-05-main\Club_Fase-05-main\ClubFase5\bin\Debug\netcoreapp3.1\Club_TP_2.runtimeconfig.dev.json
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_Fase-05-main\Club_Fase-05-main\ClubFase5\bin\Debug\netcoreapp3.1\Club_TP_2.dll
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_Fase-05-main\Club_Fase-05-main\ClubFase5\bin\Debug\netcoreapp3.1\Club_TP_2.pdb
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_Fase-05-main\Club_Fase-05-main\ClubFase5\obj\Debug\netcoreapp3.1\Club_TP_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_Fase-05-main\Club_Fase-05-main\ClubFase5\obj\Debug\netcoreapp3.1\Club_TP_2.AssemblyInfoInputs.cache
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_Fase-05-main\Club_Fase-05-main\ClubFase5\obj\Debug\netcoreapp3.1\Club_TP_2.AssemblyInfo.cs
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_Fase-05-main\Club_Fase-05-main\ClubFase5\obj\Debug\netcoreapp3.1\Club_TP_2.csproj.CoreCompileInputs.cache
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_Fase-05-main\Club_Fase-05-main\ClubFase5\obj\Debug\netcoreapp3.1\Club_TP_2.dll
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_Fase-05-main\Club_Fase-05-main\ClubFase5\obj\Debug\netcoreapp3.1\Club_TP_2.pdb
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_Fase-05-main\Club_Fase-05-main\ClubFase5\obj\Debug\netcoreapp3.1\Club_TP_2.genruntimeconfig.cache
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_TP_2-20240608T012101Z-001\Club_TP_2\ClubFase5\bin\Debug\netcoreapp3.1\Club_TP_2.exe
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_TP_2-20240608T012101Z-001\Club_TP_2\ClubFase5\bin\Debug\netcoreapp3.1\Club_TP_2.deps.json
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_TP_2-20240608T012101Z-001\Club_TP_2\ClubFase5\bin\Debug\netcoreapp3.1\Club_TP_2.runtimeconfig.json
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_TP_2-20240608T012101Z-001\Club_TP_2\ClubFase5\bin\Debug\netcoreapp3.1\Club_TP_2.runtimeconfig.dev.json
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_TP_2-20240608T012101Z-001\Club_TP_2\ClubFase5\bin\Debug\netcoreapp3.1\Club_TP_2.dll
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_TP_2-20240608T012101Z-001\Club_TP_2\ClubFase5\bin\Debug\netcoreapp3.1\Club_TP_2.pdb
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_TP_2-20240608T012101Z-001\Club_TP_2\ClubFase5\obj\Debug\netcoreapp3.1\Club_TP_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_TP_2-20240608T012101Z-001\Club_TP_2\ClubFase5\obj\Debug\netcoreapp3.1\Club_TP_2.AssemblyInfoInputs.cache
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_TP_2-20240608T012101Z-001\Club_TP_2\ClubFase5\obj\Debug\netcoreapp3.1\Club_TP_2.AssemblyInfo.cs
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_TP_2-20240608T012101Z-001\Club_TP_2\ClubFase5\obj\Debug\netcoreapp3.1\Club_TP_2.csproj.CoreCompileInputs.cache
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_TP_2-20240608T012101Z-001\Club_TP_2\ClubFase5\obj\Debug\netcoreapp3.1\Club_TP_2.dll
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_TP_2-20240608T012101Z-001\Club_TP_2\ClubFase5\obj\Debug\netcoreapp3.1\Club_TP_2.pdb
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_TP_2-20240608T012101Z-001\Club_TP_2\ClubFase5\obj\Debug\netcoreapp3.1\Club_TP_2.genruntimeconfig.cache
+C:\Users\Lore\Downloads\Club_TP_2-20240608T013852Z-001\Club_TP_2\ClubFase5\bin\Debug\netcoreapp3.1\Club_TP_2.exe
+C:\Users\Lore\Downloads\Club_TP_2-20240608T013852Z-001\Club_TP_2\ClubFase5\bin\Debug\netcoreapp3.1\Club_TP_2.deps.json
+C:\Users\Lore\Downloads\Club_TP_2-20240608T013852Z-001\Club_TP_2\ClubFase5\bin\Debug\netcoreapp3.1\Club_TP_2.runtimeconfig.json
+C:\Users\Lore\Downloads\Club_TP_2-20240608T013852Z-001\Club_TP_2\ClubFase5\bin\Debug\netcoreapp3.1\Club_TP_2.runtimeconfig.dev.json
+C:\Users\Lore\Downloads\Club_TP_2-20240608T013852Z-001\Club_TP_2\ClubFase5\bin\Debug\netcoreapp3.1\Club_TP_2.dll
+C:\Users\Lore\Downloads\Club_TP_2-20240608T013852Z-001\Club_TP_2\ClubFase5\bin\Debug\netcoreapp3.1\Club_TP_2.pdb
+C:\Users\Lore\Downloads\Club_TP_2-20240608T013852Z-001\Club_TP_2\ClubFase5\obj\Debug\netcoreapp3.1\Club_TP_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lore\Downloads\Club_TP_2-20240608T013852Z-001\Club_TP_2\ClubFase5\obj\Debug\netcoreapp3.1\Club_TP_2.AssemblyInfoInputs.cache
+C:\Users\Lore\Downloads\Club_TP_2-20240608T013852Z-001\Club_TP_2\ClubFase5\obj\Debug\netcoreapp3.1\Club_TP_2.AssemblyInfo.cs
+C:\Users\Lore\Downloads\Club_TP_2-20240608T013852Z-001\Club_TP_2\ClubFase5\obj\Debug\netcoreapp3.1\Club_TP_2.csproj.CoreCompileInputs.cache
+C:\Users\Lore\Downloads\Club_TP_2-20240608T013852Z-001\Club_TP_2\ClubFase5\obj\Debug\netcoreapp3.1\Club_TP_2.dll
+C:\Users\Lore\Downloads\Club_TP_2-20240608T013852Z-001\Club_TP_2\ClubFase5\obj\Debug\netcoreapp3.1\Club_TP_2.pdb
+C:\Users\Lore\Downloads\Club_TP_2-20240608T013852Z-001\Club_TP_2\ClubFase5\obj\Debug\netcoreapp3.1\Club_TP_2.genruntimeconfig.cache
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_TP_2\Club_TP_2\ClubFase5\bin\Debug\netcoreapp3.1\Club_TP_2.exe
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_TP_2\Club_TP_2\ClubFase5\bin\Debug\netcoreapp3.1\Club_TP_2.deps.json
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_TP_2\Club_TP_2\ClubFase5\bin\Debug\netcoreapp3.1\Club_TP_2.runtimeconfig.json
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_TP_2\Club_TP_2\ClubFase5\bin\Debug\netcoreapp3.1\Club_TP_2.runtimeconfig.dev.json
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_TP_2\Club_TP_2\ClubFase5\bin\Debug\netcoreapp3.1\Club_TP_2.dll
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_TP_2\Club_TP_2\ClubFase5\bin\Debug\netcoreapp3.1\Club_TP_2.pdb
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_TP_2\Club_TP_2\ClubFase5\obj\Debug\netcoreapp3.1\Club_TP_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_TP_2\Club_TP_2\ClubFase5\obj\Debug\netcoreapp3.1\Club_TP_2.AssemblyInfoInputs.cache
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_TP_2\Club_TP_2\ClubFase5\obj\Debug\netcoreapp3.1\Club_TP_2.AssemblyInfo.cs
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_TP_2\Club_TP_2\ClubFase5\obj\Debug\netcoreapp3.1\Club_TP_2.csproj.CoreCompileInputs.cache
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_TP_2\Club_TP_2\ClubFase5\obj\Debug\netcoreapp3.1\Club_TP_2.dll
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_TP_2\Club_TP_2\ClubFase5\obj\Debug\netcoreapp3.1\Club_TP_2.pdb
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_TP_2\Club_TP_2\ClubFase5\obj\Debug\netcoreapp3.1\Club_TP_2.genruntimeconfig.cache
+C:\Users\Lore\Downloads\prueba final\Club_TP_2-20240608T165611Z-001\ClubFase5\bin\Debug\netcoreapp3.1\Club_TP_2.exe
+C:\Users\Lore\Downloads\prueba final\Club_TP_2-20240608T165611Z-001\ClubFase5\bin\Debug\netcoreapp3.1\Club_TP_2.deps.json
+C:\Users\Lore\Downloads\prueba final\Club_TP_2-20240608T165611Z-001\ClubFase5\bin\Debug\netcoreapp3.1\Club_TP_2.runtimeconfig.json
+C:\Users\Lore\Downloads\prueba final\Club_TP_2-20240608T165611Z-001\ClubFase5\bin\Debug\netcoreapp3.1\Club_TP_2.runtimeconfig.dev.json
+C:\Users\Lore\Downloads\prueba final\Club_TP_2-20240608T165611Z-001\ClubFase5\bin\Debug\netcoreapp3.1\Club_TP_2.dll
+C:\Users\Lore\Downloads\prueba final\Club_TP_2-20240608T165611Z-001\ClubFase5\bin\Debug\netcoreapp3.1\Club_TP_2.pdb
+C:\Users\Lore\Downloads\prueba final\Club_TP_2-20240608T165611Z-001\ClubFase5\obj\Debug\netcoreapp3.1\Club_TP_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lore\Downloads\prueba final\Club_TP_2-20240608T165611Z-001\ClubFase5\obj\Debug\netcoreapp3.1\Club_TP_2.AssemblyInfoInputs.cache
+C:\Users\Lore\Downloads\prueba final\Club_TP_2-20240608T165611Z-001\ClubFase5\obj\Debug\netcoreapp3.1\Club_TP_2.AssemblyInfo.cs
+C:\Users\Lore\Downloads\prueba final\Club_TP_2-20240608T165611Z-001\ClubFase5\obj\Debug\netcoreapp3.1\Club_TP_2.csproj.CoreCompileInputs.cache
+C:\Users\Lore\Downloads\prueba final\Club_TP_2-20240608T165611Z-001\ClubFase5\obj\Debug\netcoreapp3.1\Club_TP_2.dll
+C:\Users\Lore\Downloads\prueba final\Club_TP_2-20240608T165611Z-001\ClubFase5\obj\Debug\netcoreapp3.1\Club_TP_2.pdb
+C:\Users\Lore\Downloads\prueba final\Club_TP_2-20240608T165611Z-001\ClubFase5\obj\Debug\netcoreapp3.1\Club_TP_2.genruntimeconfig.cache

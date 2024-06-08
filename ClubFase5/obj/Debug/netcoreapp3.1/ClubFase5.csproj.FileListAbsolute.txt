@@ -1,0 +1,39 @@
+C:\Users\Lore\Documents\00programacion\01.TDS\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\ClubFase5\ClubFase5\bin\Debug\netcoreapp3.1\ClubFase5.exe
+C:\Users\Lore\Documents\00programacion\01.TDS\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\ClubFase5\ClubFase5\bin\Debug\netcoreapp3.1\ClubFase5.deps.json
+C:\Users\Lore\Documents\00programacion\01.TDS\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\ClubFase5\ClubFase5\bin\Debug\netcoreapp3.1\ClubFase5.runtimeconfig.json
+C:\Users\Lore\Documents\00programacion\01.TDS\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\ClubFase5\ClubFase5\bin\Debug\netcoreapp3.1\ClubFase5.runtimeconfig.dev.json
+C:\Users\Lore\Documents\00programacion\01.TDS\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\ClubFase5\ClubFase5\bin\Debug\netcoreapp3.1\ClubFase5.dll
+C:\Users\Lore\Documents\00programacion\01.TDS\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\ClubFase5\ClubFase5\bin\Debug\netcoreapp3.1\ClubFase5.pdb
+C:\Users\Lore\Documents\00programacion\01.TDS\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\ClubFase5\ClubFase5\obj\Debug\netcoreapp3.1\ClubFase5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lore\Documents\00programacion\01.TDS\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\ClubFase5\ClubFase5\obj\Debug\netcoreapp3.1\ClubFase5.AssemblyInfoInputs.cache
+C:\Users\Lore\Documents\00programacion\01.TDS\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\ClubFase5\ClubFase5\obj\Debug\netcoreapp3.1\ClubFase5.AssemblyInfo.cs
+C:\Users\Lore\Documents\00programacion\01.TDS\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\ClubFase5\ClubFase5\obj\Debug\netcoreapp3.1\ClubFase5.csproj.CoreCompileInputs.cache
+C:\Users\Lore\Documents\00programacion\01.TDS\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\ClubFase5\ClubFase5\obj\Debug\netcoreapp3.1\ClubFase5.dll
+C:\Users\Lore\Documents\00programacion\01.TDS\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\ClubFase5\ClubFase5\obj\Debug\netcoreapp3.1\ClubFase5.pdb
+C:\Users\Lore\Documents\00programacion\01.TDS\0 2do cuatrimestre\DSOO - MDS\PRACTICAS\repos\ClubFase5\ClubFase5\obj\Debug\netcoreapp3.1\ClubFase5.genruntimeconfig.cache
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\PRACTICAS\repos\ClubFase5\ClubFase5\bin\Debug\netcoreapp3.1\ClubFase5.exe
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\PRACTICAS\repos\ClubFase5\ClubFase5\bin\Debug\netcoreapp3.1\ClubFase5.deps.json
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\PRACTICAS\repos\ClubFase5\ClubFase5\bin\Debug\netcoreapp3.1\ClubFase5.runtimeconfig.json
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\PRACTICAS\repos\ClubFase5\ClubFase5\bin\Debug\netcoreapp3.1\ClubFase5.runtimeconfig.dev.json
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\PRACTICAS\repos\ClubFase5\ClubFase5\bin\Debug\netcoreapp3.1\ClubFase5.dll
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\PRACTICAS\repos\ClubFase5\ClubFase5\bin\Debug\netcoreapp3.1\ClubFase5.pdb
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\PRACTICAS\repos\ClubFase5\ClubFase5\obj\Debug\netcoreapp3.1\ClubFase5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\PRACTICAS\repos\ClubFase5\ClubFase5\obj\Debug\netcoreapp3.1\ClubFase5.AssemblyInfoInputs.cache
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\PRACTICAS\repos\ClubFase5\ClubFase5\obj\Debug\netcoreapp3.1\ClubFase5.AssemblyInfo.cs
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\PRACTICAS\repos\ClubFase5\ClubFase5\obj\Debug\netcoreapp3.1\ClubFase5.csproj.CoreCompileInputs.cache
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\PRACTICAS\repos\ClubFase5\ClubFase5\obj\Debug\netcoreapp3.1\ClubFase5.dll
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\PRACTICAS\repos\ClubFase5\ClubFase5\obj\Debug\netcoreapp3.1\ClubFase5.pdb
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\PRACTICAS\repos\ClubFase5\ClubFase5\obj\Debug\netcoreapp3.1\ClubFase5.genruntimeconfig.cache
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_Fase-05-main\Club_Fase-05-main\ClubFase5\bin\Debug\netcoreapp3.1\ClubFase5.exe
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_Fase-05-main\Club_Fase-05-main\ClubFase5\bin\Debug\netcoreapp3.1\ClubFase5.deps.json
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_Fase-05-main\Club_Fase-05-main\ClubFase5\bin\Debug\netcoreapp3.1\ClubFase5.runtimeconfig.json
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_Fase-05-main\Club_Fase-05-main\ClubFase5\bin\Debug\netcoreapp3.1\ClubFase5.runtimeconfig.dev.json
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_Fase-05-main\Club_Fase-05-main\ClubFase5\bin\Debug\netcoreapp3.1\ClubFase5.dll
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_Fase-05-main\Club_Fase-05-main\ClubFase5\bin\Debug\netcoreapp3.1\ClubFase5.pdb
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_Fase-05-main\Club_Fase-05-main\ClubFase5\obj\Debug\netcoreapp3.1\ClubFase5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_Fase-05-main\Club_Fase-05-main\ClubFase5\obj\Debug\netcoreapp3.1\ClubFase5.AssemblyInfoInputs.cache
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_Fase-05-main\Club_Fase-05-main\ClubFase5\obj\Debug\netcoreapp3.1\ClubFase5.AssemblyInfo.cs
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_Fase-05-main\Club_Fase-05-main\ClubFase5\obj\Debug\netcoreapp3.1\ClubFase5.csproj.CoreCompileInputs.cache
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_Fase-05-main\Club_Fase-05-main\ClubFase5\obj\Debug\netcoreapp3.1\ClubFase5.dll
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_Fase-05-main\Club_Fase-05-main\ClubFase5\obj\Debug\netcoreapp3.1\ClubFase5.pdb
+C:\Users\Lore\Documents\00programacion\01.TDS\0.2do_cuatr\DSOO - MDS\Al DRIVE\Club_Fase-05-main\Club_Fase-05-main\ClubFase5\obj\Debug\netcoreapp3.1\ClubFase5.genruntimeconfig.cache

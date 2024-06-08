@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Club_TP_2.Test">
+    <Position X="1.5" Y="4.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAABACCgAAIAAAAEAAAAABAAAAAA=</HashCode>
+      <FileName>Test.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Club_TP_2.ClaseGrupal">
+    <Position X="8.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>ClaseGrupal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Club_TP_2.EntrenamientoPersonalizado">
+    <Position X="6.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>EntrenamientoPersonal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Club_TP_2.Facturacion">
+    <Position X="2.25" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAACAIAAAAAQAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Facturacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Club_TP_2.Servicio">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAgAAQAAAAEAAAAAAggAAAMIA=</HashCode>
+      <FileName>Servicio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Club_TP_2.ServicioDeportivo">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAgQAAAIAAEAA=</HashCode>
+      <FileName>ServicioDeportivo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Club_TP_2.Suplemento">
+    <Position X="5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Suplemento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
